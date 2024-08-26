@@ -1,2 +1,2 @@
-nginx
-kubesphereio/pod2daemon-flexvol:v3.23.2
+nginx:latest
+kubesphereio/kube-controller-manager:v1.22.12
