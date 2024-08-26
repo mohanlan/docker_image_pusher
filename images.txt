@@ -13,3 +13,8 @@ goharbor/notary-server-photon:v2.0.0
 goharbor/notary-signer-photon:v2.0.0
 goharbor/harbor-db:v2.0.0
 goharbor/redis-photon:v2.0.0
+eipwork/kuboard-agent
+questdb/questdb:6.0.5
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
+
