@@ -1,2 +1,2 @@
 nginx:latest
-kubesphereio/kube-controller-manager:v1.22.12
+goharbor/nginx-photon:v2.0.0
