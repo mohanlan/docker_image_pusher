@@ -1,1 +1,1 @@
-solidnerd/bookstack:latest
+lscr.io/linuxserver/bookstack
