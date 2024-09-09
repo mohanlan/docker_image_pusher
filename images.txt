@@ -1,1 +1,1 @@
-gmoney23/nfs-client-provisioner
+nacos/nacos-operator:latest
