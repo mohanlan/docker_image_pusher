@@ -1,11 +1,1 @@
-goharbor/chartmuseum-photon:v2.0.0
-goharbor/clair-photon:v2.0.0
-goharbor/clair-adapter-photon:v2.0.0
-goharbor/harbor-core:v2.0.0
-goharbor/harbor-jobservice:v2.0.0
-goharbor/notary-signer-photon:v2.0.0
-goharbor/harbor-portal:v2.0.0
-goharbor/harbor-registryctl:v2.0.0
-goharbor/registry-photon:v2.0.0
-goharbor/trivy-adapter-photon:v2.0.0
-
+redis:7.2.5
