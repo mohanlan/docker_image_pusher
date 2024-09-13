@@ -1,3 +1,1 @@
-nacos/nacos-server:v2.4.0
-nacos/nacos-peer-finder-plugin:latest
-ygqygq2/mysql-exec-sql:latest
+kubesphere/ks-installer:v3.4.1
