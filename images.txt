@@ -1,1 +1,1 @@
-opensearch:2.6.0
+opensearchproject/opensearch:2.6.0
