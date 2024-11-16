@@ -1,1 +1,1 @@
-requarks/wiki:2
+busybox:latest
