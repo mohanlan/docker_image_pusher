@@ -1,1 +1,1 @@
-busybox:latest
+opensearch:2.6.0
