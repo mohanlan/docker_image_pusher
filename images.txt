@@ -6,3 +6,4 @@ rabbitmq:3.8-management-alpine
 taigaio/taiga-front:latest
 nginx:1.19-alpine
 taigaio/taiga-events:latest
+taigaio/taiga-protected:latest
