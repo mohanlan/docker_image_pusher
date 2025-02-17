@@ -1,9 +1,2 @@
-postgres:12.3
-taigaio/taiga-back:latest
-taigaio/taiga-back:latest
-rabbitmq:3.8-management-alpine
-rabbitmq:3.8-management-alpine
-taigaio/taiga-front:latest
-nginx:1.19-alpine
-taigaio/taiga-events:latest
-taigaio/taiga-protected:latest
+docker.io/kiwigrid/k8s-sidecar:1.30.0
+docker.io/jenkins/jenkins:2.492.1-jdk17
