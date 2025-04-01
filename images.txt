@@ -1,1 +1,1 @@
-xprobe/xinference
+tibco/jasperserver:latest
