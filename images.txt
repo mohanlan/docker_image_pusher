@@ -1,1 +1,1 @@
-tibco/jasperserver:latest
+bitnami/jasperreports:latest
