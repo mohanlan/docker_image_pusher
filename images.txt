@@ -1,1 +1,1 @@
-sonatype/nexus3
+outlinewiki/outline:latest
