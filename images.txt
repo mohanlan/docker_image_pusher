@@ -1,1 +1,1 @@
-docker.getoutline.com/outline:latest
+docker.io/outlinewiki/outline:latest
