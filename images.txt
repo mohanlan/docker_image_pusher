@@ -1,1 +1,1 @@
-docker.io/outlinewiki/outline:latest
+rabbitmq:4.1.0
