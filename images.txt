@@ -1,1 +1,1 @@
-requarks/wiki:2.5.292
+elasticsearch:7.17.13
