@@ -1,1 +1,1 @@
-bitnami/rabbitmq:4.1
+requarks/wiki:2.5.292
