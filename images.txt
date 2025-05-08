@@ -1,1 +1,1 @@
-kibana:7.17.3
+powerjob/powerjob-server
