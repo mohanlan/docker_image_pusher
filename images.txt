@@ -1,1 +1,1 @@
-nvidia/cuda:12.9.0-base-ubuntu22.04
+powerjob/powerjob-server:4.3.9
