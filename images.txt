@@ -1,1 +1,1 @@
-powerjob/powerjob-server:latest
+portainer/portainer-ce:latest
