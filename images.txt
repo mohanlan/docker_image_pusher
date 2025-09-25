@@ -1,1 +1,1 @@
-dbeaver/cloudbeaver:latest
+redislabs/redisinsight:latest
