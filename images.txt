@@ -1,1 +1,1 @@
-redislabs/redisinsight:latest
+docker.io/library/eclipse-temurin:8-jre
