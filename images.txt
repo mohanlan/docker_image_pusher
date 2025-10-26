@@ -1,1 +1,1 @@
-docker.io/library/eclipse-temurin:8-jre
+circleci/jdk8:0.1.1
