@@ -1,1 +1,1 @@
-ghcr.io/ibm/mcp-context-forge:0.9.0
+ghcr.io/ibm/mcp-context-forge
