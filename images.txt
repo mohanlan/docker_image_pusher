@@ -1,1 +1,1 @@
-docker/mcp-gateway:latest
+ckanthony/openapi-mcp:latest
