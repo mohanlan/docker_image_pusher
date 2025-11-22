@@ -1,1 +1,1 @@
-ckanthony/openapi-mcp:latest
+1panel/1panel-mcp-server:latest
