@@ -1,1 +1,2 @@
-rabbitmq:4.1
+kubesphere/whizard-telemetry-apiserver
+kubesphere/wiz-telemetry-console
